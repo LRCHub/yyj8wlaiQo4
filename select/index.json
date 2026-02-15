@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "虚無観（feat. 町田ちま）",
+  "base_artist": "遼遼",
+  "createdAt": "2026-02-15T21:39:56.947471Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "虚無観 (feat. 町田ちま)",
+      "artist": "遼遼",
+      "has_synced": false,
+      "path": "select/pl_01_虚無観_(feat._町田ちま)_遼遼.txt"
+    }
+  ]
+}
